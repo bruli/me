@@ -1,5 +1,4 @@
-
-<img src="https://avatars3.githubusercontent.com/u/760646?s=460&v=4" width="200">
+<img src="https://avatars3.githubusercontent.com/u/760646?s=460&v=4" width="160">
 
 # Datos personales.
 * **Nombre y apellidos:** Pablo Braulio Escribá
