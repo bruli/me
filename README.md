@@ -2,8 +2,7 @@
 
 # Datos personales.
 * **Nombre y apellidos:** Pablo Braulio Escribá
-* **Fecha nacimiento:** 12 de marzo de 1972   
-* **Teléfono contacto:** 670 246 861           
+* **Fecha nacimiento:** 12 de marzo de 1972            
 * **Email:** brulics@gmail.com     
 * **Localidad:** Sabadell              
 * **Nacionalidad:** Española              
@@ -28,7 +27,7 @@ Desde que empecé a trabajar como programador, he trabajado en proyectos muy dis
         * Desde el año 2001, vengo realizando scripts en este lenguaje.
     * Metodologías de desarrollo:
         * Desarrollo basado en test unitarios.
-        * DDD y arquitecture hexagonal.
+        * DDD y arquitectura hexagonal.
         * CQRS y event sourcing.
         * Uso de patrones de diseño, principios SOLID y clean code.
 * **Sistemas:**
@@ -47,13 +46,45 @@ Desde que empecé a trabajar como programador, he trabajado en proyectos muy dis
             * Scrutinizer (https://scrutinizer-ci.com/).
             * Bitbucket pipelines (https://bitbucket.org/product/features/pipelines).
             * Drone (https://drone.io).
-            
-
 # Experiencia profesional.
-
+* **Freelance:**
+    * Periodo: octubre-2017, actualmente.
+* **Nektria:**
+    * Periodo: abril-2017, octubre-2017
+    * Puesto: backend developer.
+* **Enables Concierge:**
+    * Periodo: octubre-2016, marzo-2017
+    * Puesto: Backend lead.
+* **Letgo:**
+    * Periodo: mayo-2015, septiembre-2016
+    * Puesto: Backend developer.
+* **Atrapalo:**
+    * Periodo: octubre-2014, marzo-2015
+    * Puesto: Backend developer.
+* **Texyon Games:**
+    * Periodo: octubre-2013, septiembre-2014
+    * Puesto: Backend developer.
+* **Akamon Entertaiment:**
+    * Periodo: mayo-2011, febrero-2013
+    * Puesto: Senior PHP developer
+* **Aldia Gestión:**
+    * Periodo: diciembre-2003, mayo-2011
+    * Puesto: Developer
 # Proyectos realizados.
-
+He realizado algunos proyectos personales open source publicados en github.
+* **[php-git-hooks](https://github.com/bruli/php-git-hooks):**
+    * Git hook para proyectos PHP.
+* **[php-value-objects](https://github.com/bruli/php-value-objects):**
+    * Colección de value objects para proyectos con DDD en PHP.
+* **[event-bus-bundle](https://github.com/bruli/event-bus-bundle):**
+    * Bundle para usar event bus en proyectos symfony.
+* **[go-eventsourcing](https://github.com/bruli/go-eventsourcing):**
+    * Librería para usar event sourcing en proyectos en Go.
+    
+Aparte de estos, he colaborado en otros proyectos open source haciendo aportaciones al código.
 # Estudios académicos.
-
-# Otros datos de formación.
+* **Titulación:** Diplomatura en Gestión y Administración Pública.
+* **Periodo:** octubre-1997, julio-2005
+* **Universidad:** Jaume I - Castellón
+* **Idiomas:** Ingles, nivel B1.
 
