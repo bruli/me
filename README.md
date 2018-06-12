@@ -1,6 +1,4 @@
-[foto]: https://avatars3.githubusercontent.com/u/760646?s=460&v=4 "Foto perfil"
-
-#Datos personales.
+# Datos personales.
 |                               |                       |
 | ------------------------------|:----------------------|
 | **Nombre y apellidos**        | Pablo Braulio Escribá |
@@ -13,15 +11,15 @@
 | **Dispon. viaje**             | Si                    |
 | **Dispon. cambio residencia** | No                    |
 ![alt text][logo]
-#Descripción.
+# Descripción.
 
-#Perfíl tecnológico.
+# Perfíl tecnológico.
 
-#Experiencia profesional.
+# Experiencia profesional.
 
-#Proyectos realizados.
+# Proyectos realizados.
 
-#Estudios académicos.
+# Estudios académicos.
 
-#Otros datos de formación.
+# Otros datos de formación.
 
