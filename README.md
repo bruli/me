@@ -71,7 +71,7 @@ Desde que empecé a trabajar como programador, he trabajado en proyectos muy dis
     * Periodo: diciembre-2003, mayo-2011
     * Puesto: Developer
 # Proyectos realizados.
-He realizado algunos proyectos personales open source publicados en github.
+He realizado algunos proyectos personales open source publicados en [github](https://github.com/bruli?tab=repositories).
 * **[php-git-hooks](https://github.com/bruli/php-git-hooks):**
     * Git hook para proyectos PHP.
 * **[php-value-objects](https://github.com/bruli/php-value-objects):**
