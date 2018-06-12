@@ -7,20 +7,20 @@
 * **Localidad:** Sabadell              
 * **Nacionalidad:** Española              
 * **Situación laboral:** Freelance             
-* **Disponibilidad viaje:** Si                    
+* **Disponibilidad viaje:** Sí                    
 * **Disponibilidad cambio residencia:**  No                    
 # Descripción.
 Backend developer con mas de diez años de experiencia. 
 
 Programador PHP desde el 2003, especializado en symfony, con el cual he trabajado en todas sus versiones. Desde octubre del 2017 estoy trabajando en proyectos Golang.
 
-Desde que empecé a trabajar como programador, he trabajado en proyectos muy distintos, bien por su tamaño o su naturaleza; por lo que cuento con bastante experiencia en arquitectura, micro servicios, metodologías de desarrollo, etc.
+Desde que empecé a trabajar como programador he trabajado en proyectos muy distintos, bien por su tamaño o su naturaleza, por lo que cuento con bastante experiencia en arquitectura, micro servicios, metodologías de desarrollo, etc.
 # Perfíl tecnológico.
 * **Programación**:
     * Golang:
         * Desde octubre del 2017, llevo trabajando con Go, motivado en el aprendizaje continuo y poder suplir las carencias que tiene mi lenguaje de programación habitual (PHP), para determinados proyectos.
     * PHP:
-        * Mas de diez años de experiencia en pogramación PHP. Actualmente usando la versión 7.1.
+        * Mas de diez años de experiencia en programación PHP. Actualmente usando la versión 7.1.
     * Symfony:
         * Empecé a trabajar con el framework en el año 2007, con la versión 1.0. He trabajado con todas sus versiones hasta la actual versión 4.
     * Bash script:
@@ -32,15 +32,15 @@ Desde que empecé a trabajar como programador, he trabajado en proyectos muy dis
         * Uso de patrones de diseño, principios SOLID y clean code.
 * **Sistemas:**
     * Bases de datos:
-        * Mysql.
-        * Postgresql.
+        * MySQL.
+        * PostgreSQL.
         * MongoDB.
         * Redis
     * Servidores:
-        * Desde el año 2001 que trabajo con Linux, por lo que tengo conocimientos de instalación y adminstración de entornos.
+        * Desde el año 2001 trabajo con Linux, por lo que tengo conocimientos de instalación y adminstración de entornos.
         * Servidores web Apache2 y Nginx.
         * Administración de servidores en Amazon Web Services.
-        * Docker, tanto en su uso a como herramienta en el desarrollo en los proyectos, asi como en la construcción de entornos CI/CD.
+        * Docker, tanto en su uso a como herramienta en el desarrollo en los proyectos, así como en la construcción de entornos CI/CD.
         * Continuous integration, continuous deployment (CI/CD):
             * Jenkins (https://jenkins.io/).
             * Scrutinizer (https://scrutinizer-ci.com/).
@@ -51,7 +51,7 @@ Desde que empecé a trabajar como programador, he trabajado en proyectos muy dis
     * Periodo: octubre-2017, actualmente.
 * **Nektria:**
     * Periodo: abril-2017, octubre-2017
-    * Puesto: backend developer.
+    * Puesto: Backend developer.
 * **Enables Concierge:**
     * Periodo: octubre-2016, marzo-2017
     * Puesto: Backend lead.
