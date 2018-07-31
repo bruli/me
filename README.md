@@ -30,6 +30,9 @@ Desde que empecé a trabajar como programador he trabajado en proyectos muy dist
         * DDD y arquitectura hexagonal.
         * CQRS y event sourcing.
         * Uso de patrones de diseño, principios SOLID y clean code.
+* **DevOps:**
+    * Packer
+    * Terraform
 * **Sistemas:**
     * Bases de datos:
         * MySQL.
