@@ -10,7 +10,7 @@
 * **Disponibilidad viaje:** Sí                    
 * **Disponibilidad cambio residencia:**  No                    
 # Descripción.
-Backend developer con mas de diez años de experiencia. 
+Backend/devOps con mas de diez años de experiencia. 
 
 Programador PHP desde el 2003, especializado en symfony, con el cual he trabajado en todas sus versiones. Desde octubre del 2017 estoy trabajando en proyectos Golang.
 
