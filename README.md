@@ -20,7 +20,7 @@ Desde que empecé a trabajar como programador he trabajado en proyectos muy dist
     * Golang:
         * Desde octubre del 2017, llevo trabajando con Go, motivado en el aprendizaje continuo y poder suplir las carencias que tiene mi lenguaje de programación habitual (PHP), para determinados proyectos.
     * PHP:
-        * Mas de diez años de experiencia en programación PHP. Actualmente usando la versión 7.1.
+        * Mas de diez años de experiencia en programación PHP. Actualmente usando la versión 7.2.
     * Symfony:
         * Empecé a trabajar con el framework en el año 2007, con la versión 1.0. He trabajado con todas sus versiones hasta la actual versión 4.
     * Bash script:
