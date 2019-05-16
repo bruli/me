@@ -9,7 +9,8 @@
 * **Employment situation:** Freelance
 * **Travel availability:** Yes
 * **Availability change of residence:** No
-#Description
+
+# Description.
 Backend developer with more than ten years of experience.
 
 PHP developer since 2003, specialized in symfony, with which I have worked in all his
