@@ -6,7 +6,7 @@
 * **Email:** brulics@gmail.com
 * **Location:** Sabadell
 * **Nationality:** Spanish
-* **Employment situation:** Freelance
+* **Employment situation:** Employed
 * **Travel availability:** Yes
 * **Availability change of residence:** No
 
@@ -53,8 +53,10 @@ services, development methodologies, etc.
             * Bitbucket pipelines (https://bitbucket.org/product/features/pipelines).
             * Drone (https://drone.io).
 # Professional experience.
+ * **Deliverea**:
+    * Perios: July-2019, actually.
  * **Freelance**:
-    * Period: October-2017, currently.
+    * Period: October-2017, Juny-2019.
  * **Nektria**:
     * Period: April-2017, October-2017
     * Position: Backend developer.
