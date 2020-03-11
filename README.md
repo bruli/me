@@ -50,8 +50,10 @@ Desde que empecé a trabajar como programador he trabajado en proyectos muy dist
             * Bitbucket pipelines (https://bitbucket.org/product/features/pipelines).
             * Drone (https://drone.io).
 # Experiencia profesional.
+* **Deliverea**
+    * Periodo: junio-2019, actualmente.
 * **Freelance:**
-    * Periodo: octubre-2017, actualmente.
+    * Periodo: octubre-2017, junio-2019.
 * **Nektria:**
     * Periodo: abril-2017, octubre-2017
     * Puesto: Backend developer.

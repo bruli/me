@@ -54,7 +54,7 @@ services, development methodologies, etc.
             * Drone (https://drone.io).
 # Professional experience.
  * **Deliverea**:
-    * Perios: July-2019, actually.
+    * Perios: Juny-2019, actually.
  * **Freelance**:
     * Period: October-2017, Juny-2019.
  * **Nektria**:
