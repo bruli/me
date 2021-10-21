@@ -50,6 +50,12 @@ Desde que empecé a trabajar como programador he trabajado en proyectos muy dist
             * Bitbucket pipelines (https://bitbucket.org/product/features/pipelines).
             * Drone (https://drone.io).
 # Experiencia profesional.
+* **Ritmo**:
+    * Period: July-2021, October-2021,
+* **Paack**:
+    * Period: November-2020, July-2021,
+* **Freelance**:
+    * Period: Març-2020, November-2020,
 * **Deliverea**
     * Periodo: junio-2019, actualmente.
 * **Freelance:**

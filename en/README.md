@@ -53,31 +53,37 @@ services, development methodologies, etc.
             * Bitbucket pipelines (https://bitbucket.org/product/features/pipelines).
             * Drone (https://drone.io).
 # Professional experience.
- * **Deliverea**:
-    * Perios: Juny-2019, actually.
- * **Freelance**:
-    * Period: October-2017, Juny-2019.
- * **Nektria**:
-    * Period: April-2017, October-2017
-    * Position: Backend developer.
+* **Ritmo**:
+  * Period: July-2021, October-2021,
+* **Paack**:
+  * Period: November-2020, July-2021,
+* **Freelance**:
+   * Period: Març-2020, November-2020,
+* **Deliverea**:
+   * Period: Juny-2019, Març-2020.
+* **Freelance**:
+   * Period: October-2017, Juny-2019.
+* **Nektria**:
+   * Period: April-2017, October-2017
+   * Position: Backend developer.
 * **Enables Concierge**:
-    * Period: October-2016, March-2017
-    * Position: Backend lead.
+   * Period: October-2016, March-2017
+   * Position: Backend lead.
 * **Letgo**:
-    * Period: May-2015, September-2016
-    * Position: Backend developer.
+   * Period: May-2015, September-2016
+   * Position: Backend developer.
 * **Atrapalo**:
-    * Period: October-2014, March-2015
-    * Position: Backend developer.
+   * Period: October-2014, March-2015
+   * Position: Backend developer.
 * **Texyon Games**:
-    * Period: October-2013, September-2014
-    * Position: Backend developer.
+   * Period: October-2013, September-2014
+   * Position: Backend developer.
 * **Akamon Entertaiment**:
-    * Period: May-2011, February-2013
-    * Position: Senior PHP developer
+   * Period: May-2011, February-2013
+   * Position: Senior PHP developer
 * **Aldia Gestión**:
-    * Period: December-2003, May-2011
-    * Position: Developer
+   * Period: December-2003, May-2011
+   * Position: Developer
 #Completed projects.
 I have done some personal open source projects published in github. 
 * **[php-git-hooks](https://github.com/bruli/php-git-hooks):**
