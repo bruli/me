@@ -53,6 +53,8 @@ services, development methodologies, etc.
             * Bitbucket pipelines (https://bitbucket.org/product/features/pipelines).
             * Drone (https://drone.io).
 # Professional experience.
+* **World Mobile**:
+    * Period: November-2021, January-2023,
 * **Ritmo**:
   * Period: July-2021, October-2021,
 * **Paack**:
