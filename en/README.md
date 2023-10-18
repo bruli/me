@@ -11,7 +11,7 @@
 * **Availability change of residence:** No
 
 # Description.
-Backend developer with more than ten years of experience.
+Senior backend developer with 20 years of experience.
 
 PHP developer since 2003, specialized in symfony, with which I have worked in all his
 versions. Since October 2017 I am working on Golang projects.
@@ -23,9 +23,9 @@ services, development methodologies, etc.
     * Golang:
         * Since October 2017, I have been working with Go, motivated in continuous learning and be able to make up for the shortcomings of my usual programming language (PHP), in order to certain projects.
     * PHP:
-        * More than ten years of experience in PHP programming. Currently using version 7.2. 
+        * More than ten years of experience in PHP programming. Currently using version 8 
     * Symfony:
-        * I started working with the framework in 2007, with version 1.0. I have worked with all versions up to the current version 4.*
+        * I started working with the framework in 2007, with version 1.0. I have worked with all versions up to the current version 6.*
     * Bash script:
         * Since 2001, I have been scripting in this language.
     * Development methodologies:
@@ -53,6 +53,8 @@ services, development methodologies, etc.
             * Bitbucket pipelines (https://bitbucket.org/product/features/pipelines).
             * Drone (https://drone.io).
 # Professional experience.
+* **Whalar**_
+  * Period: February-2023, October-2023,
 * **World Mobile**:
     * Period: November-2021, January-2023,
 * **Ritmo**:
@@ -86,8 +88,12 @@ services, development methodologies, etc.
 * **Aldia Gestión**:
    * Period: December-2003, May-2011
    * Position: Developer
-#Completed projects.
-I have done some personal open source projects published in github. 
+# Completed projects.
+I have done some personal open source projects published in [github](https://github.com/bruli?tab=repositories).
+* projects developed in Go used on Raspberry:
+    * **[raspberryRainSensor](https://github.com/bruli/raspberryRainSensor)**
+    * **[raspberryTelegram](https://github.com/bruli/raspberryTelegram)**
+    * **[raspberryWaterSystem](https://github.com/bruli/raspberryWaterSystem)**
 * **[php-git-hooks](https://github.com/bruli/php-git-hooks):**
     * Git hook for PHP projects. 
 * **[php-value-objects](https://github.com/bruli/php-value-objects):**
