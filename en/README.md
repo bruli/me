@@ -6,7 +6,7 @@
 * **Email:** brulics@gmail.com
 * **Location:** Sabadell
 * **Nationality:** Spanish
-* **Employment situation:** Employed
+* **Employment situation:** Available
 * **Travel availability:** Yes
 * **Availability change of residence:** No
 
