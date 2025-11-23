@@ -1,111 +1,115 @@
-<img src="https://avatars3.githubusercontent.com/u/760646?s=460&v=4" width="160">
+# PABLO BRAULIO ESCRIBÁ
+### Senior Backend Engineer · Backend Architect · Go Specialist
 
-# Personal data.
-* **First and last name:** Pablo Braulio Escribá
-* **Date of birth:** 12 March 1972
-* **Email:** brulics@gmail.com
-* **Location:** Sabadell
-* **Nationality:** Spanish
-* **Employment situation:** Available
-* **Travel availability:** Yes
-* **Availability change of residence:** No
+---
 
-# Description.
-Senior backend developer with 20 years of experience.
+## Contact Information
+**Email:** brulics@gmail.com  
+**Location:** Sabadell (Barcelona)
 
-PHP developer since 2003, specialized in symfony, with which I have worked in all his
-versions. Since October 2017 I am working on Golang projects.
-Since I started working as a developer I have worked on very different projects, well
-by its size or its nature, so I have a lot of experience in architecture, micro
-services, development methodologies, etc.
-#Technological profile.
-* **Programming**:
-    * Golang:
-        * Since October 2017, I have been working with Go, motivated in continuous learning and be able to make up for the shortcomings of my usual programming language (PHP), in order to certain projects.
-    * PHP:
-        * More than ten years of experience in PHP programming. Currently using version 8 
-    * Symfony:
-        * I started working with the framework in 2007, with version 1.0. I have worked with all versions up to the current version 6.*
-    * Bash script:
-        * Since 2001, I have been scripting in this language.
-    * Development methodologies:
-        * Development based on unit tests.
-        * DDD and hexagonal architecture.
-        * CQRS and event sourcing.
-        * Use of design patterns, SOLID principles and clean code.
-* **DevOps**:
-     * Packer
-     * Terraform
-* **Systems**:
-     * Databases:
-        * MySQL.
-        * PostgreSQL.
-        * MongoDB.
-        * Redis
-     * Servers:
-        * Since 2001 I work with Linux, so I have installation knowledge and environment management.
-        * Apache2 and Nginx web servers.
-        * Administration of servers in Amazon Web Services.
-        * Docker, both in its use as a tool in the development of projects, as well as in its use as a tool in the development of projects. the construction of CI/CD environments.
-        * Continuous integration, continuous deployment (CI/CD):
-            * Jenkins (https://jenkins.io/).
-            * Scrutinizer (https://scrutinizer-ci.com/).
-            * Bitbucket pipelines (https://bitbucket.org/product/features/pipelines).
-            * Drone (https://drone.io).
-# Professional experience.
-* **Whalar**_
-  * Period: February-2023, October-2023,
-* **World Mobile**:
-    * Period: November-2021, January-2023,
-* **Ritmo**:
-  * Period: July-2021, October-2021,
-* **Paack**:
-  * Period: November-2020, July-2021,
-* **Freelance**:
-   * Period: Març-2020, November-2020,
-* **Deliverea**:
-   * Period: Juny-2019, Març-2020.
-* **Freelance**:
-   * Period: October-2017, Juny-2019.
-* **Nektria**:
-   * Period: April-2017, October-2017
-   * Position: Backend developer.
-* **Enables Concierge**:
-   * Period: October-2016, March-2017
-   * Position: Backend lead.
-* **Letgo**:
-   * Period: May-2015, September-2016
-   * Position: Backend developer.
-* **Atrapalo**:
-   * Period: October-2014, March-2015
-   * Position: Backend developer.
-* **Texyon Games**:
-   * Period: October-2013, September-2014
-   * Position: Backend developer.
-* **Akamon Entertaiment**:
-   * Period: May-2011, February-2013
-   * Position: Senior PHP developer
-* **Aldia Gestión**:
-   * Period: December-2003, May-2011
-   * Position: Developer
-# Completed projects.
-I have done some personal open source projects published in [github](https://github.com/bruli?tab=repositories).
-* projects developed in Go used on Raspberry:
-    * **[raspberryRainSensor](https://github.com/bruli/raspberryRainSensor)**
-    * **[raspberryTelegram](https://github.com/bruli/raspberryTelegram)**
-    * **[raspberryWaterSystem](https://github.com/bruli/raspberryWaterSystem)**
-* **[php-git-hooks](https://github.com/bruli/php-git-hooks):**
-    * Git hook for PHP projects. 
-* **[php-value-objects](https://github.com/bruli/php-value-objects):**
-    * Collection of value objects for projects with DDD in PHP. 
-* **[event-bus-bundle](https://github.com/bruli/event-bus-bundle):**
-    * Bundle to use event bus in symfony projects. 
-* **[go-eventsourcing](https://github.com/bruli/go-eventsourcing):**
-    * Library to use event sourcing in Go projects.
+---
 
-Apart from these, I have collaborated in other open source projects making contributions to the code.
-# Academic studies.
-* Degree: Diploma in Management and Public Administration.
-* Period: October-1997, July-2005
-* University: Jaume I - Castellón
-* Languages: English, level B1.
+## Professional Summary
+
+Backend engineer specialized in **Go**, with extensive experience designing, developing, and evolving distributed, high‑performance platforms. Strong focus on modern architecture (DDD, Hexagonal, CQRS), software quality (TDD/BDD), and cloud deployments (AWS, GCP, Kubernetes).
+
+Brings architectural vision, technical leadership, and the ability to standardize engineering practices while building scalable, maintainable, and mission‑critical backend services.
+
+---
+
+## Technical Skills
+
+### Languages
+- Go (Golang): APIs, services, workers, concurrency, optimization, advanced testing
+- Shell/Bash
+
+### Architecture
+- Domain‑Driven Design (DDD)
+- Hexagonal Architecture (Ports & Adapters)
+- CQRS / CQS
+- Event‑driven systems
+- Event sourcing
+- SOLID principles · Clean Code
+
+### Software Quality
+- TDD / BDD
+- Integration testing · Contract testing
+- CI/CD automation
+
+### Databases
+- PostgreSQL
+- MySQL
+- Redis (cache, streams, pub/sub)
+- MongoDB
+
+### Messaging & Eventing
+- RabbitMQ
+- NATS
+- Pub/Sub (GCP)
+- MQTT
+- SQS/SNS (AWS)
+
+### Cloud & Infrastructure
+- Kubernetes (K3s, GKE, EKS)
+- Docker
+- AWS · GCP
+- Terraform
+- Advanced Linux
+
+### Observability
+- Prometheus
+- Grafana
+- Structured logging
+- Distributed tracing
+
+### CI/CD & DevOps
+- GitHub Actions
+- Bitbucket Pipelines
+- Ansible
+- Docker Buildx · Deployment automation
+
+---
+
+## Professional Experience
+
+### Senior Backend Engineer / Backend Architect (2017 – Present)
+
+Design and development of mission‑critical backend services in Go, with technical responsibility over distributed architecture, advanced patterns, and system scalability.
+
+**Key Responsibilities:**
+- Design and implementation of microservices, APIs, and workers in Go
+- Adoption of DDD, Hexagonal Architecture, CQRS, and event‑driven patterns
+- Domain modeling and engineering standards definition
+- Performance optimization, metrics analysis, system refactoring and modernization
+- Integration with databases, caches, messaging systems, and distributed components
+- Deployment and operations in AWS, GCP, and Kubernetes
+- Technical decision‑making and leadership of best engineering practices
+
+**Core Technologies:**  
+Go, PostgreSQL, Redis, RabbitMQ, Pub/Sub, NATS, Docker, Kubernetes, AWS, GCP, Prometheus, Grafana, TDD/BDD.
+
+---
+
+## Previous Backend Experience (2003 – 2017)
+
+Work focused on backend applications, APIs, and integration systems across sectors such as logistics, mobility, marketplaces, gaming, and SaaS.
+
+**Key Competencies:**
+- Backend service and API development
+- Modular architecture and integration patterns
+- Relational databases and distributed systems
+- High‑traffic systems and complex integrations
+- Agile collaboration in demanding engineering environments
+
+---
+
+## Education
+**Diploma in Public Administration and Management**  
+Universitat Jaume I (1997–2005)
+
+---
+
+## Languages
+- Spanish: native
+- Catalan: native
+- English: B2  
